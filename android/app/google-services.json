@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751439237387",
+    "project_id": "fir-crashlaticsbasics",
+    "storage_bucket": "fir-crashlaticsbasics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751439237387:android:b9e111317a1b794237920e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_crashlatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751439237387-f0ff8ughomrvostfr631e10mqdql2skh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase_crashlatics",
+            "certificate_hash": "7ba3cc818ca4b08be22e582e9c55c0b742fd3125"
+          }
+        },
+        {
+          "client_id": "751439237387-cboic0qbvundt3p9ei3uptb7poo14hde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArP6RiVsypaQB6MBhs_iUkHIcSe6Qx28Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751439237387-cboic0qbvundt3p9ei3uptb7poo14hde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
